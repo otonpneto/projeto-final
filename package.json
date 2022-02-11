@@ -1,0 +1,14 @@
+{
+  "name": "@dnfeijo/panorama-de-casos-e-mortes-por-covid-19-no-brasil-2020-2021",
+  "main": "54a4c940c51d4996@1101.js",
+  "version": "1101.0.0",
+  "homepage": "https://observablehq.com/@dnfeijo/panorama-de-casos-e-mortes-por-covid-19-no-brasil-2020-2021",
+  "author": {
+    "name": "dnfeijo",
+    "url": "https://observablehq.com/@dnfeijo"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
