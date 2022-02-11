@@ -4,3 +4,7 @@ p {
 	background-color: gray;
 	color: blue;
 }
+
+.inner {
+	max-width: 90% !important;
+}
